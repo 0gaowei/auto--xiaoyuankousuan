@@ -12,3 +12,4 @@
 4. 手机USB连接到电脑上
 5. 启动小猿口算pk界面，然后运行上述python程序即可。（不同机型窗口位置不一样，需要自己微调一下，有问题可以联系我的QQ：2397611013）
 6. python的依赖主要是opencv-python和adb，也可以无脑:`pip install opencv-python pytesseract keyboard numpy'
+7. 本人还做了多位数乘法选项，但是效果一般，能者也可以来优化一下。
