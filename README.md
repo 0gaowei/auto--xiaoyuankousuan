@@ -10,6 +10,6 @@
 2. 安装tesseract-OCR识别工具，链接：[tesseract](https://github.com/UB-Mannheim/tesseract/releases/download/v5.4.0.20240606/tesseract-ocr-w64-setup-5.4.0.20240606.exe)，[官网下载介绍地址](https://github.com/UB-Mannheim/tesseract/wiki)（记住安装路径，我的是K:\Tesseract-OCR\tesseract.exe）。
 3. 开启手机开发者选项，并开启USB调试。
 4. 手机USB连接到电脑上
-5. 启动小猿口算pk界面，然后运行上述python程序即可。（不同机型窗口位置不一样，需要自己微调一下，有问题可以联系我的QQ：2397611013）
+5. 启动小猿口算pk界面，然后运行上述python程序即可。（不同机型窗口位置不一样，需要自己微调一下，有问题可以网上搜一下怎么查看手机屏幕位置）
 6. python的依赖主要是opencv-python和adb，也可以无脑:`pip install opencv-python pytesseract keyboard numpy'
 7. 本人还做了多位数乘法选项，但是效果一般，能者也可以来优化一下。
